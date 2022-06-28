@@ -1,1 +1,2 @@
-#include <iostream>
+int b = 0;
+cin >> b;

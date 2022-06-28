@@ -6,17 +6,17 @@ using namespace std;
 int main()
 {
 
-cout << "Le première valeur " << endl;
+cout << "A first value " << endl;
 
-int a (0);
+int a;
 cin >> a;
 
-cout << "La deuxième valeur " << endl;
-int b = 0;
+cout << "A second value " << endl;
+int b;
 cin >> b;
 
-cout << "La troisième valeur " << endl;
-int c = 0;
+cout << "A third value " << endl;
+int c;
 cin >> c;
 
 int resultat(0), resultat_fin(0), division(0), modulo(0);
